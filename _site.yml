@@ -1,0 +1,8 @@
+name: "Collyer seminar"
+output_dir: "."
+navbar:
+  title: ""
+  left:
+    - text: "Home"
+      href: index.html
+
